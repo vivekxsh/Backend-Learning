@@ -60,7 +60,29 @@ Here are the updated codes I've worked on during my backend learning journey. Th
 
 ---
 
-Feel free to explore the code and follow my journey as I continue building more advanced backend systems!
+
+## 📁 Other Repositories to Check Out
+
+Here are some repositories you should definitely check out:
+
+- 🔧 <a href="https://github.com/vivekxsh/DSA-Learning" target="_blank">DSA Learning Journey by using Java</a>  
+  <em>Java, DSA, Algorithms, Java Collections.</em>
+
+- 📊 <a href="https://github.com/vivekxsh/Markdown_Code_Compiler" target="_blank">Markdown Previewer Project</a>  
+  <em>You must check out my latest project which is a web-based Markdown code compiler.</em>  
+  <em>React.js, Node.js, Markdown, web.</em>
+
+- 🧪 <a href="https://github.com/vivekxsh/Finan-Smart" target="_blank">Finan Smart</a>  
+  <em>A financial tracker (web & Android) where you can track daily expenses and add income with tags.</em>  
+  <em>React.js, Node.js, Firestore.</em>
+
+- 🕸️ <a href="https://github.com/vivekxsh/DOCTOR-APPOINTMENT" target="_blank">Doctor Appointment Booking System</a>  
+  <em>A dynamic web app for booking doctor consultations. Doctors can register, and admin (hospital) verifies them.</em>  
+  <em>React.js, Node.js, Express.js, MongoDB, Routers, Controllers, Database Connection.</em>
+
+
+---
+
 
 > ✨ *“The best way to learn is by doing.”*
 
