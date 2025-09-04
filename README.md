@@ -65,20 +65,29 @@ Here are the updated codes I've worked on during my backend learning journey. Th
 
 Here are some repositories you should definitely check out:
 
-- 🔧 <a href="https://github.com/vivekxsh/DSA-Learning" target="_blank">DSA Learning Journey by using Java</a>  
+- 🔧 <a href="https://github.com/vivekxsh/DSA-Learning" target="_blank">DSA Learning Journey by using Java</a>
+
   <em>Java, DSA, Algorithms, Java Collections.</em>
 
-- 📊 <a href="https://github.com/vivekxsh/Markdown_Code_Compiler" target="_blank">Markdown Previewer Project</a>  
+- 📊 <a href="https://github.com/vivekxsh/Markdown_Code_Compiler" target="_blank">Markdown Previewer Project</a>
+
   <em>You must check out my latest project which is a web-based Markdown code compiler.</em>  
   <em>React.js, Node.js, Markdown, web.</em>
 
-- 🧪 <a href="https://github.com/vivekxsh/Finan-Smart" target="_blank">Finan Smart</a>  
+- 🧪 <a href="https://github.com/vivekxsh/Finan-Smart" target="_blank">Finan Smart</a>
+  
   <em>A financial tracker (web & Android) where you can track daily expenses and add income with tags.</em>  
   <em>React.js, Node.js, Firestore.</em>
 
-- 🕸️ <a href="https://github.com/vivekxsh/DOCTOR-APPOINTMENT" target="_blank">Doctor Appointment Booking System</a>  
+- 🕸️ <a href="https://github.com/vivekxsh/DOCTOR-APPOINTMENT" target="_blank">Doctor Appointment Booking System</a>
+  
   <em>A dynamic web app for booking doctor consultations. Doctors can register, and admin (hospital) verifies them.</em>  
   <em>React.js, Node.js, Express.js, MongoDB, Routers, Controllers, Database Connection.</em>
+
+- 🕸️ <a href="https://github.com/vivekxsh/MEDICINE-RECOMMENDER" target="_blank">Medicine recommender</a>
+
+  <em>A Web based machine learning project which helps users in getting there disease tracked. After putting the symptoms in the input field as soon as you hit predict button the prediction page will occur there you will get section like disease names, detailed descriptions, suggested medications, dietary recommendations, and workout plans tailored to their condition.</em>
+  <em>Jupitor, Pyhton, Flask, Html, Css, Javascript.</em>
 
 
 ---
